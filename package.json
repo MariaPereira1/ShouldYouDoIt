@@ -1,0 +1,14 @@
+{
+  "name": "projectmarco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start" : "live-server --entry-file=index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}

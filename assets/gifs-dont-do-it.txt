@@ -1,0 +1,11 @@
+"https://media.giphy.com/media/f8cFBux1pgkApezJfQ/giphy.gif",
+"https://media.giphy.com/media/SRqTQmbYdm5jgS7xH9/giphy.gif",
+"https://media.giphy.com/media/4H70hBJGFx5APMD8A8/giphy.gif",
+"https://media.giphy.com/media/9EKBsjzgzzpu0/giphy.gif",
+"https://media.giphy.com/media/xULW8Mfacg6pXs9GkE/giphy.gif",
+"https://media.giphy.com/media/5QUKIa6ovlLTILnIaK/giphy.gif",
+"https://media.giphy.com/media/xVvJkXpUdnh70mGGqn/giphy.gif",
+"https://media.giphy.com/media/Q8aXVAVUA9Pegjcp6X/giphy.gif",
+"https://media.giphy.com/media/kBloEOVQ1T1iAbuxPu/giphy.gif",
+"https://media.giphy.com/media/26kckFM7rSfdE4BgXR/giphy.gif",
+"https://media.giphy.com/media/EPe8qQ9izgDZ0GJmr4/giphy.gif"
